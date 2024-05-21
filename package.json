@@ -1,0 +1,19 @@
+{
+  "name": "practisement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.7.0",
+    "chai": "^5.1.1",
+    "cucumber": "^6.0.7",
+    "puppeteer": "^22.9.0"
+  }
+}
